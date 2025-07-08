@@ -1,8 +1,7 @@
 # CYBER THREAT AWARENESS
+[Blog Index](./index.md)
 
 A personal initiative to raise cyber awareness by sharing insights into the most common attack tactics and how to stay protected.
-
-[Blog Index](./index.md)
 
 ## About
 
