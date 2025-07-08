@@ -112,4 +112,4 @@ If in doubt, **open the login page manually** via your bookmarks.
 
 Stay alert. Don’t trust — verify.
 
-➡️ Up next: [What to Do After Clicking a Phishing Link](./clicked_phish_now_what.md)
+➡️ Up next: [What to Do After Clicking a Phishing Link](./clicked_phish_now_what.md) OR ⬅️ [Return to Blog Index](../index.md)
