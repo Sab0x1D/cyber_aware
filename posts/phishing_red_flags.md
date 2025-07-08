@@ -1,4 +1,4 @@
-# 🎣 Phishing Red Flags: How to Spot a Trap
+# Phishing Red Flags: How to Spot a Trap
 
 Phishing remains one of the **most successful attack methods** in the world. Why? Because it doesn't rely on hacking systems — it hacks people.
 
@@ -82,7 +82,7 @@ Malware often hides in:
 >  
 > - IT Admin
 
-👀 Red Flags:
+Red Flags:
 - Non-Microsoft domain  
 - Unusual urgency  
 - Generic sign-off  
@@ -90,7 +90,7 @@ Malware often hides in:
 
 ---
 
-## 📚 TL;DR: Phishing Red Flags Checklist
+## TL;DR: Phishing Red Flags Checklist
 
 ✅ Unusual sender or domain  
 ✅ Urgent or fear-based message  
