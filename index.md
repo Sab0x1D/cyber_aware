@@ -33,7 +33,7 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 - *(Coming Soon: How to Spot a Fake Banking App)*
 - *(Coming Soon: Telegram and Instagram App Bait)*
 
-### 7. 🖥Fake Software & Updates
+### 7. Fake Software & Updates
 - *(Coming Soon: Browser Update Malware)*
 - *(Coming Soon: Cracked Software = Hidden Payloads)*
 
