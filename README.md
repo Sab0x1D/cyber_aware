@@ -2,6 +2,8 @@
 
 A personal initiative to raise cyber awareness by sharing insights into the most common attack tactics and how to stay protected.
 
+[Blog Index](./index.md)
+
 ## About
 
 This repository is dedicated to documenting the **most prevalent cyber attack tactics** targeting everyday users, employees, and small businesses.
