@@ -1,8 +1,3 @@
----
-layout: home
-title: Cyber Aware
----
-
 Welcome to **cyber_aware**, a blog built for raising awareness on phishing, MFA bypass, social engineering, and real-world tactics used in cyberattacks.
 
 ## Blog Posts
