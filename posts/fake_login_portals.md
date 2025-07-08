@@ -42,11 +42,9 @@ They're **usually delivered via phishing emails or malicious QR codes**, and the
 > 
 > – IT Helpdesk
 
-✅ Link **looks close** to real Outlook but it’s off.
-
-✅ Clicking takes you to a **cloned Outlook login page**.
-
-❌ Anything you type goes **straight to the attacker**.
+✅ Link **looks close** to real Outlook but it’s off.  
+✅ Clicking takes you to a **cloned Outlook login page**.  
+❌ Anything you type goes **straight to the attacker**.  
 
 ---
 
@@ -76,15 +74,11 @@ Goal: **Harvest real usernames, passwords, and even MFA tokens** in real time
 
 ## How to Protect Yourself
 
-✅ **Always check the domain** — especially on mobile 
-
-✅ Use a **password manager** — it won’t autofill on fake sites 
-
-✅ Enable **MFA**, preferably app-based (not just SMS) 
-
-✅ Don’t scan **random QR codes** from posters, emails, or chat apps 
-
-✅ Report suspicious links to your IT/security team
+✅ **Always check the domain** — especially on mobile  
+✅ Use a **password manager** — it won’t autofill on fake sites  
+✅ Enable **MFA**, preferably app-based (not just SMS)  
+✅ Don’t scan **random QR codes** from posters, emails, or chat apps  
+✅ Report suspicious links to your IT/security team  
 
 ---
 
