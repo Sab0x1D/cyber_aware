@@ -92,3 +92,5 @@ This guide helps you spot the traps in **under 60 seconds**.
 ---
 
 📬 **Subscribe to repo notifications** to stay ahead of the curve.
+
+⬅️ [Return to Blog Index](../docs/index.md)
