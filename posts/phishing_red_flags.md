@@ -103,5 +103,5 @@ Red Flags:
 
 Stay vigilant. One click can compromise everything.
 
-Want more? Check out the next blog: [How Fake Login Portals Steal Your Data](./fake_login_portals.md) OR ⬅️ [Return to Blog Index](../docs/index.md)
+Want more? Check out the next blog: [How Fake Login Portals Steal Your Data](./fake_login_portals.md) OR ⬅️ [Return to Blog Index](../index.md)
 
