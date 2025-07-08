@@ -55,15 +55,11 @@ That was **MFA fatigue** — the attacker tried logging in, and you **confirmed 
 
 ## How to Make MFA Actually Work
 
-✅ Use an **authenticator app** (e.g. Microsoft Authenticator, Authy) 
-
-🚫 Avoid **SMS-based MFA** if possible — vulnerable to SIM swaps 
-
-✅ Enable **device prompts** over code entry 
-
-✅ Never approve MFA pushes you didn’t initiate 
-
-✅ Consider **hardware keys** (e.g. Yubikey) for critical accounts
+✅ Use an **authenticator app** (e.g. Microsoft Authenticator, Authy)  
+🚫 Avoid **SMS-based MFA** if possible — vulnerable to SIM swaps  
+✅ Enable **device prompts** over code entry  
+✅ Never approve MFA pushes you didn’t initiate  
+✅ Consider **hardware keys** (e.g. Yubikey) for critical accounts  
 
 ---
 
