@@ -109,4 +109,4 @@ Fully bypassed MFA from a **trusted-looking internal source**
 
 MFA isn't dead — but like passwords, it **must evolve** to stay effective.
 
-➡️ Next up: [Building a Human Firewall — Training Non-Technical Staff](./human_firewall_training.md)
+➡️ Next up: [Building a Human Firewall — Training Non-Technical Staff](./human_firewall_training.md) OR ⬅️ [Return to Blog Index](../docs/index.md)
