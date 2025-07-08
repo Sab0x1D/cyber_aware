@@ -92,4 +92,4 @@ If your email gets compromised, attackers can reset almost everything else.
 
 MFA doesn’t make you invincible — but without it, one password leak is game over.
 
-➡️ Next up: [Real Examples of MFA Bypass in the Wild](./mfa_bypass_case_studies.md)
+➡️ Next up: [Real Examples of MFA Bypass in the Wild](./mfa_bypass_case_studies.md) OR ⬅️ [Return to Blog Index](../docs/index.md)
