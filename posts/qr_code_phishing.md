@@ -95,4 +95,4 @@ Ask employees to **spot the suspicious one** 
 
 That little black-and-white square might hide a full-blown attack chain.
 
-➡️ Next up: [How to Report a Phish — Internally and Externally](./how_to_report_phishing.md) OR ⬅️ [Return to Blog Index](../docs/index.md)
+➡️ Next up: [How to Report a Phish — Internally and Externally](./how_to_report_phishing.md) OR ⬅️ [Return to Blog Index](../index.md)
