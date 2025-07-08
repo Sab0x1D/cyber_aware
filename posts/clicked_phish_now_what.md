@@ -126,4 +126,4 @@ What matters is:
 
 Got phished once? That makes you **more prepared than someone who hasn’t**.
 
-➡️ Next up: [Why MFA Isn't Foolproof — But Still Saves You](./why_mfa_matters.md)
+➡️ Next up: [Why MFA Isn't Foolproof — But Still Saves You](./why_mfa_matters.md) OR ⬅️ [Return to Blog Index](../index.md)
