@@ -92,12 +92,12 @@ Red Flags:
 
 ## TL;DR: Phishing Red Flags Checklist
 
-✅ Unusual sender or domain  
-✅ Urgent or fear-based message  
-✅ Spelling or grammar issues  
-✅ Suspicious links (hover reveals odd URL)  
-✅ Unexpected attachments  
-✅ Requests for credentials, payment, or MFA codes  
+- [ ] Unusual sender or domain  
+- [ ] Urgent or fear-based message  
+- [ ] Spelling or grammar issues  
+- [ ] Suspicious links (hover reveals odd URL)  
+- [ ] Unexpected attachments  
+- [ ] Requests for credentials, payment, or MFA codes  
 
 ---
 
