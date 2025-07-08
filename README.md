@@ -59,26 +59,4 @@ Most successful cyberattacks begin with **human error** — a click on a malicio
 
 ---
 
-## Upcoming Blog Topics
-
-> These will be published in the `/posts/` directory over time:
-- How to spot a fake login portal
-- What to do after clicking a phishing link
-- Why MFA matters — and when it's not enough
-- Red flags in SMS and email
-- Real-world examples of BEC attacks
-
----
-
-## Structure
-
-```plaintext
-cyber_aware/
-├── README.md
-├── posts/
-│   ├── phishing_red_flags.md
-│   ├── mfa_basics.md
-│   └── fake_login_portals.md
-```
-
 [Blog Index](./index.md)
