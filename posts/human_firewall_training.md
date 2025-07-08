@@ -15,9 +15,8 @@ A “human firewall” is a workforce that:
 - Reports potential threats early
 - Follows security hygiene without being told every time
 
-✅ It’s not about turning staff into security pros 
-
-✅ It’s about giving them **repeatable instincts** to catch the obvious threats
+✅ It’s not about turning staff into security pros  
+✅ It’s about giving them **repeatable instincts** to catch the obvious threats  
 
 ---
 
