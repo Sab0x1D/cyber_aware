@@ -1,5 +1,9 @@
-# CYBER THREAT AWARENESS
-[Blog Index](./index.md)
+<h1 align="center">
+          Cyber Threat Awareness
+</h1>
+<p align="center">
+          <img src="images/img6.png" alt="Cyber Aware Banner">
+</p>
 
 A personal initiative to raise cyber awareness by sharing insights into the most common attack tactics and how to stay protected.
 
