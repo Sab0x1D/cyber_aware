@@ -1,4 +1,4 @@
-# cyber_aware
+# CYBER THREAT AWARENESS
 
 A personal initiative to raise cyber awareness by sharing insights into the most common attack tactics and how to stay protected.
 
