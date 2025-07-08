@@ -99,4 +99,4 @@ Security culture = trust + support + learning loops
 
 People are your **first responders** — give them the tools, not just the tech.
 
-➡️ Next up: [Baited by a QR Code — The New Phishing Vector](./qr_code_phishing.md)
+➡️ Next up: [Baited by a QR Code — The New Phishing Vector](./qr_code_phishing.md) OR ⬅️ [Return to Blog Index](../index.md)
