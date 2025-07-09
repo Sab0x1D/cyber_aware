@@ -1,6 +1,6 @@
 # CYBER THREAT AWARENESS
 
-Welcome to **cyber_aware** — a growing collection of short, clear blog posts designed to help everyday users recognize and respond to modern cyber threats.
+Welcome to **cyber_aware** a growing collection of short, clear blog posts designed to help everyday users recognize and respond to modern cyber threats.
 
 Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing, or CEO impersonation, this repo explains how attacks work — and how to defend against them.
 
