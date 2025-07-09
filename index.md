@@ -23,7 +23,9 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 
 ### Business Email Compromise (BEC)
 - [BEC & Invoice Fraud Explained](./posts/bec_invoice_fraud_explained.md)
-- *(Coming Soon: Vendor Hijack Case Study)*
+- [BEC Vendor Hijack Case Study](./posts/bec_vendor_hijack_case_study.md)  
+- [BEC Payroll Redirection Attack Flow](./posts/bec_payroll_redirect_flow.md)  
+- [BEC Detection Playbook for SMBs](./posts/bec_detection_playbook.md)
 
 ### Credential Reuse & Stuffing
 - [Why MFA Matters](./posts/why_mfa_matters.md)
