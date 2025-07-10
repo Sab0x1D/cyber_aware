@@ -27,39 +27,39 @@ Most successful cyberattacks begin with **human error** — a click on a malicio
 
 ## Common Attack Tactics to Be Aware Of
 
-### 1. Phishing
+### Phishing
 - Email links mimicking known services (banks, Office365, parcel delivery)
 - Fake login portals
 - Attachments with malware or credential stealers
 
-### 2. Social Engineering
+### Social Engineering
 - Tech support scams
 - Impersonation of CEOs, HR, or IT
 - Baiting with USBs or QR codes in public spaces
 
-### 3. Smishing & Vishing
+### Smishing & Vishing
 - SMS phishing ("your package is delayed", fake MFA codes)
 - Voice calls from fake support or government agents
 - Urgent language to prompt action without thinking
 
-### 4. Credential Stuffing & Reuse
+### Credential Stuffing & Reuse
 - Attackers use leaked username/password combos across multiple sites
 - Especially dangerous if MFA is not enabled
 
-### 5. Malicious Mobile Apps & Links
+### Malicious Mobile Apps & Links
 - Fake banking or crypto apps
 - APK files shared outside app stores
 - Social media DMs with malicious shortened URLs
 
-### 6. Infected USBs or Drives
+### Infected USBs or Drives
 - Plug-and-play USBs left intentionally in parking lots, cafés, etc.
 - Can automatically run malware on connect
 
-### 7. Business Email Compromise (BEC)
+### Business Email Compromise (BEC)
 - Targeted attacks impersonating executives or vendors
 - Typically request payments, credentials, or sensitive data
 
-### 8. Fake Software / Updates
+### Fake Software / Updates
 - Fake browser update pop-ups
 - Cracked software laced with malware
 
