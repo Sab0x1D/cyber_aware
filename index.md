@@ -56,7 +56,7 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 ## Scams & Fraud Techniques (Standalone Awareness Topics)
 These cover non-technical but high-impact scams targeting everyday users and staff:
 
-- *(Coming Soon: Subscription Renewal Scams — “Your Norton is Expiring”)*  
+- [Subscription Renewal Scams — “Your Norton Is Expiring”](./posts/subscription_renewal_scams.md)
 - *(Coming Soon: Crypto Giveaway Scams — Elon’s Not Sending ETH)*  
 - *(Coming Soon: Call Center Tech Support Scams — What They Say and Why)*  
 - *(Coming Soon: “Your Parcel Is Held” Text Messages Explained)*  
