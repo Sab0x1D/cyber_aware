@@ -56,11 +56,11 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 ## Scams & Fraud Techniques (Standalone Awareness Topics)
 These cover non-technical but high-impact scams targeting everyday users and staff:
 
-- [Subscription Renewal Scams — “Your Norton Is Expiring”](./posts/subscription_renewal_scams.md)
-- [Crypto Giveaway Scams — Elon’s Not Sending ETH](./posts/crypto_giveaway_scams.md)
-- [Call Center Tech Support Scams — What They Say and Why](./posts/call_center_tech_scams.md)
-- *(Coming Soon: “Your Parcel Is Held” Text Messages Explained)*  
-- *(Coming Soon: Romance & Investment Scam Red Flags)*  
+- [Subscription Renewal Scams — “Your Norton Is Expiring”](./posts/subscription_renewal_scams.md)  
+- [Crypto Giveaway Scams — Elon’s Not Sending ETH](./posts/crypto_giveaway_scams.md)  
+- [Call Center Tech Support Scams — What They Say and Why](./posts/call_center_tech_scams.md)  
+- [“Your Parcel Is Held” Text Messages Explained](./posts/parcel_hold_sms_scams.md)  
+- [Romance & Investment Scam Red Flags](./posts/romance_investment_scams.md)  
 
 ---
 
