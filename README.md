@@ -14,10 +14,10 @@ A personal initiative to raise cyber awareness by sharing insights into the most
 This repository is dedicated to documenting the **most prevalent cyber attack tactics** targeting everyday users, employees, and small businesses.
 
 The aim is to:
-- Promote **basic cybersecurity hygiene**
-- Raise awareness of **social engineering and phishing tactics**
-- Empower individuals to recognize **suspicious behavior and digital traps**
-- Serve as a growing blog-style knowledge base with short, actionable posts
+- Promote **basic cybersecurity hygiene**  
+- Raise awareness of **social engineering and phishing tactics**  
+- Empower individuals to recognize **suspicious behavior and digital traps**  
+- Serve as a growing blog-style knowledge base with short, actionable posts  
 
 ## Why It Matters
 
