@@ -36,8 +36,8 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 - *(Coming Soon: Telegram and Instagram App Bait)*
 
 ### Fake Software & Updates
-- *(Coming Soon: Browser Update Malware)*
-- *(Coming Soon: Cracked Software = Hidden Payloads)*
+[Browser Update Malware](./posts/browser_update_malware.md)  
+[Cracked Software = Hidden Payloads](./posts/cracked_software_payloads.md)
 
 ### USB & Physical Attack Vectors
 - *(Coming Soon: Infected USB Case Example)*
