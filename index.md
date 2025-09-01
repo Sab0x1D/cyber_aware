@@ -32,8 +32,8 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 - [Security Hygiene 101](./posts/security_hygiene_101.md)
 
 ### Malicious Apps & Mobile Threats
-- *(Coming Soon: How to Spot a Fake Banking App)*
-- *(Coming Soon: Telegram and Instagram App Bait)*
+- [How to Spot a Fake Banking App](./posts/fake_banking_apps.md)  
+- [Telegram & Instagram App Bait](./posts/telegram_instagram_app_bait.md)
 
 ### Fake Software & Updates
 - [Browser Update Malware](./posts/browser_update_malware.md)  
