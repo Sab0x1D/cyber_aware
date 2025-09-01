@@ -40,8 +40,8 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 - [Cracked Software = Hidden Payloads](./posts/cracked_software_payloads.md)
 
 ### USB & Physical Attack Vectors
-- *(Coming Soon: Infected USB Case Example)*
-- *(Coming Soon: QR Codes in Public Spaces)*
+- [Infected USB Case Example](./posts/infected_usb_case.md)  
+- [QR Codes in Public Spaces](./posts/qr_codes_in_public.md)
 
 ### Suspicious Email Patterns
 - [I Clicked a Phishing Link — Now What?](./posts/clicked_phish_now_what.md)
