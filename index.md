@@ -18,8 +18,8 @@ Whether you’re dealing with suspicious emails, fake phone calls, SMS phishing,
 - [MFA Bypass Case Studies](./posts/mfa_bypass_case_studies.md)
 
 ### Smishing & Vishing
-- *(Coming Soon: Smishing Examples & Response Guide)*
-- *(Coming Soon: Common Phone Scams & What to Say)*
+- [Smishing Examples & Response Guide](./posts/smishing_examples_response.md)  
+- [Common Phone Scams & What to Say](./posts/common_phone_scams.md)
 
 ### Business Email Compromise (BEC)
 - [BEC & Invoice Fraud Explained](./posts/bec_invoice_fraud_explained.md)
